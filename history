@@ -1,0 +1,2 @@
+Have problem with: git remote add origin, cuz 2FA: https://github.com/jlord/git-it-electron/issues/173 <- link to solve this problem
+Link to get token: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
